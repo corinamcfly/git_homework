@@ -1,4 +1,1 @@
-Start a new git repository
-Create a directory to contain the project.
-Go into the new directory.
-Type git init .
+The challange I faced was at step number 6 with gitignore. Had issues committing the file
