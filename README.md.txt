@@ -1,0 +1,4 @@
+Start a new git repository
+Create a directory to contain the project.
+Go into the new directory.
+Type git init .
